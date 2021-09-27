@@ -30,7 +30,7 @@
         },
         {
             "title": "Podcast",
-            "url": "/feed/podcast",
+            "url": "https://www.agileinaction.com",
             "type": "text",
             "content": "Content",
             "imageUrl": "",
