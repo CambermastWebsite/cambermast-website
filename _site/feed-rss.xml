@@ -17,8 +17,8 @@
         <copyright>&#169; Copyright Cambermast LLC</copyright>
         <managingEditor>editor@cambermast.com (Bill Raymond)</managingEditor>
         <!-- By default, pubDate and lastBuildDate are the same -->
-        <pubDate>Fri, 24 Sep 2021 17:20:51 -0700</pubDate>
-        <lastBuildDate>Fri, 24 Sep 2021 17:20:51 -0700</lastBuildDate>
+        <pubDate>Mon, 27 Sep 2021 13:14:28 -0700</pubDate>
+        <lastBuildDate>Mon, 27 Sep 2021 13:14:28 -0700</lastBuildDate>
         <category>Business</category>
         <generator>Cambermast feed generator</generator>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -39,6 +39,20 @@
         <!-- <skipDays /> -->
 
         <!-- item elements --><item>
+            <title>Introducing Agile for Marketing</title>
+            <link>http://localhost:4000/agile-in-action-podcast/2021/09/28/introducing-agile-for-marketing.html</link>
+            <description>In our latest ““Agile for…”” series, we talk to Andrea Fryrear about Agile for Marketing. We discuss the unique structure of a marketing organization and the opportunities to reduce complexity and introduce agile methods.</description>
+            <author>info@cambermast.com (Bill Raymond))</author>
+            <!-- Use the first word in the yml categories or the default category -->
+            <category>agile-in-action-podcast</category>
+            <!-- by default, not using comments. -->
+            <!-- <comments /> -->
+            <!-- by default, not using enclosure. -->
+            <!-- <enclosure /> -->
+            <guid>http://localhost:4000/agile-in-action-podcast/2021/09/28/introducing-agile-for-marketing.html</guid>
+            <pubDate>Tue, 28 Sep 2021 00:00:21 -0700</pubDate>
+            <source url="http://localhost:4000/feed-rss.xml">Cambermast and Agile in Action</source>
+        </item><item>
             <title>Introducing ADAPT, a book for digital transformation</title>
             <link>http://localhost:4000/agile-in-action-podcast/2021/09/21/introducing-adapt-a-book-for-digital-transformation.html</link>
             <description>Friend of the podcast, Luis Goncalves, returns to introduce his new book, ADAPT. You will learn the five pillars that describe how to transform your company for the digital age, along with an example of actual companies using Luis’ concepts.</description>
@@ -306,20 +320,6 @@ In today’s podcast, I speak with Evan Leybourn, Co-founder and CEO of the Busi
             <!-- <enclosure /> -->
             <guid>http://localhost:4000/agile-in-action-podcast/2021/04/20/shane-drumm-shares-a-day-in-the-life-of-an-agile-team-product-owner.html</guid>
             <pubDate>Tue, 20 Apr 2021 01:00:27 -0700</pubDate>
-            <source url="http://localhost:4000/feed-rss.xml">Cambermast and Agile in Action</source>
-        </item><item>
-            <title>Measuring enterprise agile maturity and success with Jim Starrett at Bottomline</title>
-            <link>http://localhost:4000/agile-in-action-podcast/2021/04/13/measuring-enterprise-agile-maturity-and-success-with-jim-starrett-at-bottomline.html</link>
-            <description>Before you adopt agile, you need to know where to start and then continuously measure its success. In today’s spirited podcast, I speak with Jim Starrett, Head of Platform Engagement and Adoption at Bottomline Technologies. We talk about how he and his team transform Bottomline’s teams to adopt agile techniques, build a roadmap to a successful design, and implement a consistent maturity model.</description>
-            <author>info@cambermast.com (Bill Raymond))</author>
-            <!-- Use the first word in the yml categories or the default category -->
-            <category>agile-in-action-podcast</category>
-            <!-- by default, not using comments. -->
-            <!-- <comments /> -->
-            <!-- by default, not using enclosure. -->
-            <!-- <enclosure /> -->
-            <guid>http://localhost:4000/agile-in-action-podcast/2021/04/13/measuring-enterprise-agile-maturity-and-success-with-jim-starrett-at-bottomline.html</guid>
-            <pubDate>Tue, 13 Apr 2021 01:00:41 -0700</pubDate>
             <source url="http://localhost:4000/feed-rss.xml">Cambermast and Agile in Action</source>
         </item>
     </channel>
